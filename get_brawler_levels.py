@@ -1,7 +1,7 @@
 # Author: ZSilverZ
 # Date: 15 June 2022
 # Python Version: 3.7
-# Python Libraries Required: brawlstats, tqdm
+# Python Libraries Required: brawlstats, tqdm, pandas
 
 import brawlstats
 import pandas as pd
